@@ -3,14 +3,14 @@
   "description": "",
   "artist": "",
   "author": "Satsuki Imonet",
-  "cover": "",
+  "cover": "https://i.imgur.com/vGDG0qm.jpg",
   "chapters": {
     "1": {
       "title": "Sexual Season",
       "volume": "",
       "last_updated": "1672043929",
       "groups": {
-        "": "/proxy/api/imgur/chapter/<00n8SMm>/"
+        "": "/proxy/api/imgur/chapter/00n8SMm"
       }
     }
   }
