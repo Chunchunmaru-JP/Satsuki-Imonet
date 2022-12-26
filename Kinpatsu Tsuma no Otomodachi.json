@@ -1,0 +1,25 @@
+{
+  "title": "Kinpatsu Tsuma no Otomodachi",
+  "description": "",
+  "artist": "Muneshiro",
+  "author": "Muneshiro",
+  "cover": "https://i.imgur.com/L1WIzvT.jpg",
+  "chapters": {
+    "1": {
+      "title": "Kinpatsu Tsuma no Otomodachi",
+      "volume": "",
+      "last_updated": "1672076605",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2vH0Ra1"
+      }
+    },
+    "2": {
+      "title": "Megane Tsuma no Otomodachi",
+      "volume": "",
+      "last_updated": "1672076629",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7rqqT4K"
+      }
+    }
+  }
+}
