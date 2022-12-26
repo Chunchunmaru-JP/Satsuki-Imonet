@@ -1,0 +1,25 @@
+{
+  "title": "Kemuri Haku",
+  "description": "",
+  "artist": "Kemuri Haku, Chinjao Girl",
+  "author": "Kemuri Haku, Chinjao Girl",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Ane wa Yanmama Junyuu-chuu",
+      "volume": "",
+      "last_updated": "1672056885",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Bq1VAuw"
+      }
+    },
+    "2": {
+      "title": "Ane wa Yanmama Junyuu-chu 2",
+      "volume": "",
+      "last_updated": "1672057092",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/YZvZd7q"
+      }
+    }
+  }
+}
