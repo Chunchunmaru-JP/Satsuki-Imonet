@@ -1,0 +1,129 @@
+{
+  "title": "My Precious Little Boy",
+  "description": "",
+  "artist": "Yumeno Tanuki",
+  "author": "Yumeno Tanuki",
+  "cover": "https://i.imgur.com/UIpXYer.png",
+  "chapters": {
+    "1": {
+      "title": "My Precious Little Boy",
+      "volume": "",
+      "last_updated": "1672047994",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/D70ZkVS"
+      }
+    },
+    "2": {
+      "title": "Sleeping Beauty and Her Sweetheart",
+      "volume": "",
+      "last_updated": "1672048030",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/XJNTvx8"
+      }
+    },
+    "3": {
+      "title": "Miyo & Mishiro",
+      "volume": "",
+      "last_updated": "1672048723",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QIECZcp"
+      }
+    },
+    "4": {
+      "title": "Selling Youth",
+      "volume": "",
+      "last_updated": "1672048768",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2doSZid"
+      }
+    },
+    "5": {
+      "title": "Mismatched Play 1",
+      "volume": "",
+      "last_updated": "1672048946",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ENZyhaK"
+      }
+    },
+    "6": {
+      "title": "Mismatched Play 2",
+      "volume": "",
+      "last_updated": "1672049132",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AXpbCEb"
+      }
+    },
+    "7": {
+      "title": "Mismatched Play 3",
+      "volume": "",
+      "last_updated": "1672049179",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ADRqjCB"
+      }
+    },
+    "8": {
+      "title": "Mismatched Play 4",
+      "volume": "",
+      "last_updated": "1672049514",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EDgzQfi"
+      }
+    },
+    "9": {
+      "title": "Lookout",
+      "volume": "",
+      "last_updated": "1672049877",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/NBckpiP"
+      }
+    },
+    "10": {
+      "title": "Hey, Sensei!",
+      "volume": "",
+      "last_updated": "1672050008",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/B83cNeb"
+      }
+    },
+    "11": {
+      "title": "Double Riding",
+      "volume": "",
+      "last_updated": "1672050150",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/tc7NZKx"
+      }
+    },
+    "12": {
+      "title": "Akino-san the Useless Rookie",
+      "volume": "",
+      "last_updated": "1672050237",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/13QOGiJ"
+      }
+    },
+    "13": {
+      "title": "Go On",
+      "volume": "",
+      "last_updated": "1672050344",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nyLKov2"
+      }
+    },
+    "14": {
+      "title": "Cat's Cradle",
+      "volume": "",
+      "last_updated": "1672050416",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/UdV1DHL"
+      }
+    },
+    "15": {
+      "title": "Cat's Cradle Prologue",
+      "volume": "",
+      "last_updated": "1672050509",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Ceo3zMw"
+      }
+    }
+  }
+}
